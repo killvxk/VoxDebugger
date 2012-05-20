@@ -1,0 +1,9 @@
+<RCC>
+    <qresource>
+      <file>Icons/bug.png</file>
+      <file>Icons/control_play_blue.png</file>
+      <file>Icons/control_stop_blue.png</file>
+      <file>Icons/control_pause_blue.png</file>
+      <file>Icons/folder_explore.png</file>
+    </qresource>
+</RCC>
